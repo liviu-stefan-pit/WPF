@@ -1,0 +1,15 @@
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\bin\Debug\WpfCourseUdemy.exe.config
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\bin\Debug\WpfCourseUdemy.exe
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\bin\Debug\WpfCourseUdemy.pdb
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\WpfCourseUdemy.csprojAssemblyReference.cache
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\MainWindow.g.cs
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\App.g.cs
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\WpfCourseUdemy_MarkupCompile.cache
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\WpfCourseUdemy_MarkupCompile.lref
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\MainWindow.baml
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\WpfCourseUdemy.g.resources
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\WpfCourseUdemy.Properties.Resources.resources
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\WpfCourseUdemy.csproj.GenerateResource.cache
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\WpfCourseUdemy.exe
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\WpfCourseUdemy.pdb
+C:\prod\C-Sharp\WpfCourseUdemy\WpfCourseUdemy\obj\Debug\App.baml
