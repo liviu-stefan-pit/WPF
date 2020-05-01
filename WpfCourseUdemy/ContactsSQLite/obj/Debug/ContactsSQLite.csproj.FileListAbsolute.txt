@@ -1,0 +1,16 @@
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\ContactsSQLite.exe.config
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\ContactsSQLite.exe
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\ContactsSQLite.pdb
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.csprojAssemblyReference.cache
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\MainWindow.g.cs
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\NewContactWindow.g.cs
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\App.g.cs
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite_MarkupCompile.cache
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite_MarkupCompile.lref
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\MainWindow.baml
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\NewContactWindow.baml
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.g.resources
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.Properties.Resources.resources
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.csproj.GenerateResource.cache
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.exe
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.pdb
