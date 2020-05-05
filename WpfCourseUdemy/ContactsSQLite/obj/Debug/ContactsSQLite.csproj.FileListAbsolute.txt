@@ -14,3 +14,13 @@ C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.Propertie
 C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.csproj.GenerateResource.cache
 C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.exe
 C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.pdb
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\x86\e_sqlite3.dll
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\x64\e_sqlite3.dll
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\SQLite-net.dll
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\SQLitePCLRaw.core.dll
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\bin\Debug\SQLite-net.xml
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite_Content.g.cs
+C:\prod\C-Sharp\WpfCourseUdemy\ContactsSQLite\obj\Debug\ContactsSQLite.csproj.CopyComplete
