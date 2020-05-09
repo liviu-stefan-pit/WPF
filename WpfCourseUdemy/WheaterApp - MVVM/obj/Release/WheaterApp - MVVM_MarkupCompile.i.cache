@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\
+C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Release\
 WheaterApp___MVVM
 none
 false
-DEBUG;TRACE
+TRACE
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\App.xaml
 1-1914446687
 
-14-332257379
+13-2142399549
 14-305388626
 View\WeatherWindow.xaml;
 
-False
+True
 

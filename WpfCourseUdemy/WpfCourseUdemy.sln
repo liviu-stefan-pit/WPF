@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCourseUdemy", "WpfCourseUdemy\WpfCourseUdemy.csproj", "{238F7122-AAD8-44B1-B41D-6BEF7FB3FA7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWPF - Calculator", "WpfCourseUdemy\SimpleWPF - Calculator.csproj", "{238F7122-AAD8-44B1-B41D-6BEF7FB3FA7F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsSQLite", "ContactsSQLite\ContactsSQLite.csproj", "{1ACB833E-60C5-46E7-9E74-99F1D29A9D76}"
 EndProject

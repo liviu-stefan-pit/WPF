@@ -1,14 +1,17 @@
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\bin\Debug\WheaterApp - MVVM.exe.config
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\bin\Debug\WheaterApp - MVVM.exe
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\bin\Debug\WheaterApp - MVVM.pdb
-C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp - MVVM.csprojAssemblyReference.cache
-C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\MainWindow.g.cs
+C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\bin\Debug\Newtonsoft.Json.dll
+C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\bin\Debug\Newtonsoft.Json.xml
+C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\View\WeatherWindow.g.cs
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\App.g.cs
+C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp - MVVM_MarkupCompile.cache
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp - MVVM_MarkupCompile.lref
-C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\MainWindow.baml
+C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\View\WeatherWindow.baml
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp - MVVM.g.resources
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp___MVVM.Properties.Resources.resources
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp - MVVM.csproj.GenerateResource.cache
+C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp - MVVM.csproj.CopyComplete
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp - MVVM.exe
 C:\prod\C-Sharp\WpfCourseUdemy\WheaterApp - MVVM\obj\Debug\WheaterApp - MVVM.pdb
